@@ -1,0 +1,14 @@
+.my_jumbotron {
+    background-image: url(https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cdc4d332eab7ae54a6449ef4918730f5&auto=format&fit=crop&w=1950&q=80);
+    max-width: 100%;
+    background-size: cover;
+    background-position: center;
+    min-height: 70vh;
+    overflow: hidden;
+}
+.my_jumbotron_slogan {
+    background: rgba(0,0,0,0.4)
+}
+.my-jumbotron-text {
+    letter-spacing: 0.25rem;
+}
